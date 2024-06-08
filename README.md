@@ -2,7 +2,7 @@
 
 **Features**
 
-     01* Token Joiner                     10* Global Nick Changer              19* User Mass Friend              
+     01* Token Joiner                     10* Global Nick Changer               19* User Mass Friend              
      02* Token Leaver                     11* Server Nick Changer               20* User Mass DM 
      03* Token Spammer                    12* HypeSquad Changer                 21* Mass Report 
      04* Multi Checker                    13* Bio Changer                       22* Mass Thread 
