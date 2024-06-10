@@ -19,3 +19,5 @@
 TAGS : 
 
 discord discord joiner discord token generator disocr_joiner free discord tool discord multitool discord account generator grabber discord grabber discord token grabber webhook voice joiner
+
+![tool](https://github.com/lamnotfair/lighttool/assets/146945142/ba757073-4952-4550-ad6c-651f7113e41c)
